@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+*.iws
+*.iml
+*.ipr
+*.xml
+
+/shelf/
+/workspace.xml
+=======
+*.class
+/.idea
+/out
